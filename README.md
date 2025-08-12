@@ -1,12 +1,3 @@
-<div align="center">
-  <img
-    src="https://i.imgur.com/qdpTXtj.png"
-    alt="Pixel Art Ambiente de Codificação"
-    width="100%"
-    style="max-width: 100%; height: auto; object-fit: cover;"
-  />
-</div>
-
 # 👋 Olá, eu sou o **Gabriel Ferezim**
 
 💻 Desenvolvedor focado em transformar ideias em **soluções digitais** com **código, design e criatividade**.  
