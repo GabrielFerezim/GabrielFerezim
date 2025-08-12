@@ -1,8 +1,9 @@
 <div align="center">
-  <img 
-    src="https://images.openai.com/thumbnails/url/DS4k5Xicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4uNi6yNEoOCTFwDjZNCvFKzvH1ybM0dikz99fNSXYJ8zIq9PSNyksuyUjR9crKTsuONNJ1CkksDdetClQrBgDziikD" 
-    alt="Ambiente de codificação pixel art" 
-    width="100%" 
+  <img
+    src="https://i.imgur.com/qdpTXtj.png"
+    alt="Pixel Art Ambiente de Codificação"
+    width="100%"
+    style="max-width: 100%; height: auto; object-fit: cover;"
   />
 </div>
 
