@@ -1,17 +1,19 @@
 <div align="center">
+  <img 
+    src="https://images.openai.com/thumbnails/url/DS4k5Xicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4uNi6yNEoOCTFwDjZNCvFKzvH1ybM0dikz99fNSXYJ8zIq9PSNyksuyUjR9crKTsuONNJ1CkksDdetClQrBgDziikD" 
+    alt="Ambiente de codificação pixel art" 
+    width="100%" 
+  />
+</div>
 
-![Banner de Boas-Vindas](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-# 👋 Olá, eu sou o **Gabriel Ferezim**  
+# 👋 Olá, eu sou o **Gabriel Ferezim**
 
 💻 Desenvolvedor focado em transformar ideias em **soluções digitais** com **código, design e criatividade**.  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** & Técnico em **Informática para Internet**.
 
 ---
 
-</div>
-
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim  
 Sou um entusiasta da tecnologia e apaixonado por criar interfaces e sistemas que sejam **funcionais, performáticos, acessíveis** e com uma **experiência de usuário incrível**.  
 Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedores.
 
@@ -19,7 +21,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 
 ## 🛠️ Minha Stack
 
-### 🎨 Front-end & Design
+### 🎨 Front-end & Design  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
@@ -28,7 +30,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </p>
 
-### ⚙️ Back-end & Banco de Dados
+### ⚙️ Back-end & Banco de Dados  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
@@ -41,7 +43,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 
 ---
 
-## 📈 Estatísticas no GitHub
+## 📈 Estatísticas no GitHub  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerezim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerezim&layout=compact&langs_count=8&theme=radical"/>
@@ -49,7 +51,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Vamos nos conectar!  
 <div align="center">
   <a href="mailto:ferezimbiel@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -65,8 +67,6 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 ---
 
 <div align="center">
-  
 ✨ *"Código é poesia em movimento."*  
 🚀 Vamos criar o futuro juntos!
-
 </div>
