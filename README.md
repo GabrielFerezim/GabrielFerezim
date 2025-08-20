@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou o **Gabriel Ferezim**
+# 👋 Hello, I'm **Gabriel Ferezim**
 
-💻 Desenvolvedor focado em transformar ideias em **soluções digitais** com **código, design e criatividade**.  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** & Técnico em **Informática para Internet**.
-
----
-
-## 👨‍💻 Sobre Mim  
-Sou um entusiasta da tecnologia e apaixonado por criar interfaces e sistemas que sejam **funcionais, performáticos, acessíveis** e com uma **experiência de usuário incrível**.  
-Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedores.
+💻 Developer focused on turning ideas into **digital solutions** with **code, design, and creativity**.  
+🎓 Student of **Systems Analysis and Development** & Technician in **Internet Informatics**.
 
 ---
 
-## 🛠️ Minha Stack
+## 👨‍💻 About Me  
+I’m a technology enthusiast passionate about building interfaces and systems that are **functional, high-performing, accessible**, and deliver an **amazing user experience**.  
+I’m always striving to **learn, innovate**, and contribute to the developer community.
+
+---
+
+## 🛠️ My Stack
 
 ### 🎨 Front-end & Design  
 <p align="left">
@@ -22,7 +22,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </p>
 
-### ⚙️ Back-end & Banco de Dados  
+### ⚙️ Back-end & Database  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
@@ -35,7 +35,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 
 ---
 
-## 📈 Estatísticas no GitHub  
+## 📈 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerezim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerezim&layout=compact&langs_count=8&theme=radical"/>
@@ -43,7 +43,7 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 
 ---
 
-## 📫 Vamos nos conectar!  
+## 📫 Let’s Connect!  
 <div align="center">
   <a href="mailto:ferezimbiel@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -59,6 +59,6 @@ Sempre busco **aprender, inovar** e contribuir com a comunidade de desenvolvedor
 ---
 
 <div align="center">
-✨ *"Código é poesia em movimento."*  
-🚀 Vamos criar o futuro juntos!
+✨ *"Code is poetry in motion."*  
+🚀 Let’s build the future together!
 </div>
