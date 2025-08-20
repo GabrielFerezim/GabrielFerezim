@@ -59,6 +59,6 @@ I’m always striving to **learn, innovate**, and contribute to the developer co
 ---
 
 <div align="center">
-✨ *"Code is poetry in motion."*  
+✨ ## Code is poetry in motion.!
 🚀 Let’s build the future together!
 </div>
