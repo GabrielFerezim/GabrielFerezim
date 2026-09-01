@@ -106,13 +106,6 @@
 
 <div align="center">
   <a href="https://github.com/GabrielFerezim">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielFerezim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerezim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Linguagens Mais Utilizadas" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/GabrielFerezim">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerezim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
