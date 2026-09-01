@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner Dinâmico: Gradiente Verde & Azul atrás do nome -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00E676,45:00B0FF,100:0052D4&height=230&section=header&text=Gabriel%20Ferezim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Early%20Career%20%7C%20Intern%20Tech%20Jr%20%40%20Trynova&descFontSize=19&descAlignY=62" width="100%" />
+  <!-- Header Banner com Gradiente VERDE e AZUL Real -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:00B0FF,100:0052D4&height=230&section=header&text=Gabriel%20Ferezim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Early%20Career%20%7C%20Intern%20Tech%20Jr%20%40%20Trynova&descFontSize=19&descAlignY=62" width="100%" />
 
   <!-- Efeito de Digitação Animado -->
   <a href="https://github.com/GabrielFerezim">
@@ -29,10 +29,10 @@
 
 Olá! Me chamo **Gabriel Ferezim Lindsiepe**, tenho 20 anos e sou **Software Engineer em início de carreira**, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
-- 🚀 Em constante evolução técnica, focado em boas práticas, código limpo e arquitetura de software.
+- 🚀 Focado em aprendizado contínuo, boas práticas de programação, código limpo e arquitetura de software.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** *(Previsão de conclusão: 2027)*.
 - 📚 Início da graduação em **Engenharia de Software** programado para **Fevereiro de 2027**.
-- 💡 Interesse constante em tecnologias web, microsserviços, modelagem de dados, conteinerização e deploy em nuvem.
+- 💡 Grande interesse no desenvolvimento de APIs, integrações de sistemas, banco de dados, conteinerização e infraestrutura em nuvem.
 
 ---
 
@@ -44,13 +44,13 @@ Olá! Me chamo **Gabriel Ferezim Lindsiepe**, tenho 20 anos e sou **Software Eng
       <h3>🏢 Trynova</h3>
       <p><b>Cargo:</b> Intern Tech Jr</p>
       <p><b>Período:</b> Atual</p>
-      <p>Atuação no ecossistema de tecnologia e inovação, colaborando no desenvolvimento, suporte e aprimoramento de soluções corporativas.</p>
+      <p>Atuação no ecossistema de tecnologia e inovação, colaborando no desenvolvimento de sistemas, sustentação de plataformas e soluções corporativas.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 Digigrow</h3>
       <p><b>Cargo:</b> Desenvolvedor de Software</p>
       <p><b>Período:</b> 1 ano e 1 mês</p>
-      <p>Atuação no ciclo completo de desenvolvimento de software, construção e consumo de APIs REST, integrações front e back-end e manipulação de bancos de dados.</p>
+      <p>Desenvolvimento e sustentação de aplicações web, construção e consumo de APIs REST, integração de interfaces com back-end e modelagem de banco de dados.</p>
     </td>
   </tr>
 </table>
@@ -104,3 +104,10 @@ Olá! Me chamo **Gabriel Ferezim Lindsiepe**, tenho 20 anos e sou **Software Eng
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerezim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <sub>Construído por <b>Gabriel Ferezim Lindsiepe</b> 🚀</sub>
+</div>
+
