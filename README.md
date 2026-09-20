@@ -42,7 +42,7 @@ Olá! Me chamo **Gabriel Ferezim Lindsiepe**, tenho 20 anos e sou **Software Eng
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 Trynova</h3>
-      <p><b>Cargo:</b> Intern Tech Jr</p>
+      <p><b>Cargo:</b> Technology Analyst I</p>
       <p><b>Período:</b> Atual</p>
       <p>Atuação no ecossistema de tecnologia e inovação, colaborando no desenvolvimento de sistemas, sustentação de plataformas e soluções corporativas.</p>
     </td>
