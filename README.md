@@ -5,7 +5,7 @@
 
   <!-- Efeito de Digitação Animado -->
   <a href="https://github.com/GabrielFerezim">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=false&width=650&lines=Software+Engineer+(Early+Career);Intern+Tech+Jr+na+Trynova;React+%7C+Node.js+%7C+MariaDB+%7C+MongoDB;AWS+Lightsail+%7C+Docker+%7C+Postman;Graduando+em+ADS+%7C+Futuro+Eng.+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=false&width=650&lines=Software+Engineer+(Early+Career);Technology+Analyst+I+na+Trynova;React+%7C+Node.js+%7C+MariaDB+%7C+MongoDB;AWS+Lightsail+%7C+Docker+%7C+Postman;Graduando+em+ADS+%7C+Futuro+Eng.+de+Software" alt="Typing SVG" />
   </a>
 
   <br/><br/>
